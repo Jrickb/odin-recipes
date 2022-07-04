@@ -1,0 +1,39 @@
+.foodlist {
+    color: palegreen;
+    background-color: darkgray;
+    font-family: Verdana, Tahoma, sans-serif;
+    height: fit-content;
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+    position: relative;
+}
+
+#f {
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    font-weight: bold;
+    background-color: yellow;
+    text-align: center;
+    
+}
+
+#gg {
+    color: black;
+    text-align: center;
+    
+}
+
+h1 {
+    color: blueviolet;
+    background-color: black;
+    width: fit-content;
+    height: fit-content;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    position: relative;
+    text-align: center;
+    margin: auto;
+
+}
